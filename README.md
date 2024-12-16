@@ -47,7 +47,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
 <br></br>
 **<sup>1</sup>** Estimate Number, you'll probably need more or less <br></br>
 **<sup>2</sup>** You can use any Arduino, I used an Arduino Uno Wifi Rev2
