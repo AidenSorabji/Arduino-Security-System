@@ -25,7 +25,7 @@ A security system that uses a variety of sensors to detect if a person is near, 
 While there is no specific way to build it (just follow the diagram, it's accurate and easy to understand), its easier to start with building everything on the bread board, then adding the wires to the Arduino, then adding the ultrasonic sensor to everything.
 
 #### Code
-Download the Code from the repo or in the [Releases](https://github.com/AidenSorabji/Arduino-Security-System/releases) tab, open it in [Arduino IDE](https://www.arduino.cc/en/software), plug-in and select your Arduino, click serial monitor, and watch it run. If it doesn't run or doesn't run right, then check your connections; check if you placed something wrong; and if all goes wrong, check the code and tailor it to what you need, its fully commented so you'll know what each part means.
+Download the Code from the repo or in the [Releases](https://github.com/AidenSorabji/Arduino-Security-System/releases) tab, open it in [Arduino IDE](https://www.arduino.cc/en/software), plug-in and select your Arduino. Click ```serial monitor```, and watch it run. If it doesn't run or doesn't run right, then check your connections and check if you placed something in the incorrect slot. If all goes wrong, check the code and tailor it to your project.
 
 ## License 
 Copyright (c) 2024 Aiden Sorabji
